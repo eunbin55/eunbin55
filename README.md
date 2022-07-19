@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=a7d6ff&height=300&section=header&text=EunbinLee&fontColor=424242&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=EunbinLee&fontColor=auto&fontSize=70)
 <div align="center"><h2>🌈 STACKS</h2></div>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
