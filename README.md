@@ -16,7 +16,7 @@
 <div align="center">
   <h2>💡 My Most Used Languages</h2>
   <a href="https://github.com/eunbin55">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbin55&layout=compact&hide_title=${타이틀숨김}"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunbin55&layout=compact&hide_title=${타이틀숨김}&size_weight=0&count_weight=1"/>
   </a>
   <h2>🎈 My Git Stats</h2>
   <a href="https://github.com/eunbin55">
